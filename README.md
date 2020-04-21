@@ -2,4 +2,6 @@
 
 The following is a project based on tensorflow library to create a neural network that classifies image in different categories.
 
-edit the nn1.py as per requirement.
+edit the nn1.py as per requirement.(if dataset is in ubyte format.)
+
+else use 
