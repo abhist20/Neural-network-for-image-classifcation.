@@ -12,6 +12,6 @@ NN parameters
 1 input layer.
 1 dense layer 128 neurons.
 1 softmax layer for results.
-
+Adam optimiser.
 
 further itrations in model design can be done for better performance such as making 2dconv layes etc and making more deep models. 
